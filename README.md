@@ -1,5 +1,6 @@
 # Roman-Numeral-Conversion
 This is a converter that converts Roman Numerals to integers.
-# Useage
+# Usage
 `python ./converter.py`
+
 `Ex) Input: XI Expected output: 11`
