@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 input = input ("Input your archaic number:")
 
 array1 = list(input)
